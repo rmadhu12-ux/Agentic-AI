@@ -82,11 +82,6 @@ agent = initialize_agent(
 )
 
 # 4. Run it
-'''print("--- AI Weather Agent ---")
-user_input = input("Ask about the weather: ") # Example: "What's the weather in Edmonton?"
-response = agent.run(user_input)
-print(f"\nFinal Answer: {response}")'''
-
 print("--- Multi-Tool AI Agent ---")
 user_input = input("How can I help you today? ") 
 # Try: "What is 150 Canadian dollars in Indian Rupees?"
