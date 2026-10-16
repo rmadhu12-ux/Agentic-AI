@@ -1,0 +1,80 @@
+2026-10-16 15:13:07,678 WARNING __main__: skipping row 103: 1 validation error for TicketModel2
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value='-5', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:15:59,841 WARNING __main__: skipping row 103: 1 validation error for TicketModel2
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value='-5', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:19:35,711 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:24:54,539 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:25:25,297 WARNING __main__: skipping row 101: 3 validation errors for TicketModel2
+id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='abc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+priority
+  Input should be 'high', 'medium' or 'low' [type=literal_error, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/literal_error
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:25:25,297 WARNING __main__: skipping row 102: 3 validation errors for TicketModel2
+id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='abc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+priority
+  Input should be 'high', 'medium' or 'low' [type=literal_error, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/literal_error
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:25:25,297 WARNING __main__: skipping row 103: 3 validation errors for TicketModel2
+id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='abc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+priority
+  Input should be 'high', 'medium' or 'low' [type=literal_error, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/literal_error
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:25:25,299 INFO __main__: processed 3, valid 0, invalid 3
+2026-10-16 15:28:15,069 WARNING __main__: skipping row 101: 3 validation errors for TicketModel2
+id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='abc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+priority
+  Input should be 'high', 'medium' or 'low' [type=literal_error, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/literal_error
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:28:15,069 WARNING __main__: skipping row 102: 3 validation errors for TicketModel2
+id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='abc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+priority
+  Input should be 'high', 'medium' or 'low' [type=literal_error, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/literal_error
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:28:15,070 WARNING __main__: skipping row 103: 3 validation errors for TicketModel2
+id
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='abc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+priority
+  Input should be 'high', 'medium' or 'low' [type=literal_error, input_value='urgent', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/literal_error
+hours
+  Input should be greater than or equal to 0 [type=greater_than_equal, input_value=-3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/greater_than_equal
+2026-10-16 15:28:15,073 INFO __main__: processed 3, valid 0, invalid 3
+2026-10-16 15:31:27,184 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:32:53,487 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:34:36,693 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:37:04,978 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:39:16,485 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:40:27,681 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:40:36,996 INFO __main__: processed 3, valid 3, invalid 0
+2026-10-16 15:41:49,551 INFO __main__: processed 3, valid 3, invalid 0
