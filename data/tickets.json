@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "title": "Login fails",
+    "priority": "high",
+    "hours": 5.5
+  },
+  {
+    "id": 102,
+    "title": "Report slow",
+    "priority": "medium",
+    "hours": 3.0
+  },
+  {
+    "id": 103,
+    "title": "Typo on page",
+    "priority": "low",
+    "hours": -5
+  }
+]

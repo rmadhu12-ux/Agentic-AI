@@ -90,7 +90,7 @@ def test(x):
     print("final")
 
 print("Testing")    
-test()
+test(x)
 
 
 """Decorator: retry (the useful one)
